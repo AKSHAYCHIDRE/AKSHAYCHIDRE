@@ -71,7 +71,7 @@
 <ul>
     <li>UI Developer</li>
     <li>Frameworks : Bootstrap, Tailwind, Ant design </li>
-    <li>Visit my <a href="https://www.akshaychidre.com/" rel="nofollow">Porfolio website</a> for complete background and contact.</li>
+    <li>Visit my <a href="https://akshaychidre.netlify.app/" rel="nofollow">Porfolio website</a> for complete background and contact.</li>
 </ul>
 <h2>
     <a id="user-content--technologies--tools" class="anchor" aria-hidden="true" href="#-technologies--tools">
